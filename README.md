@@ -9,5 +9,7 @@ Tool for using dice in the Hustle Castle adventure event
 
 ![Hustle Castle Auto Dice](https://i.imgur.com/4zvqfWh.png)
 
+3) Load game, navigate to the Dice Game page and run application
+    
+![Hustle Castle Auto Dice](https://i.imgur.com/D5FfOQ7.png)
 
-4) 
