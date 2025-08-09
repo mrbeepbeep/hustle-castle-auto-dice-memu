@@ -17,3 +17,5 @@ Notes:
 
 This version supports MeMu Emulator only. 
 
+The bot may stop when you have selected ticket use in Halls of Destiny and have no tickets. This should be resolved soon
+
