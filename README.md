@@ -1,5 +1,5 @@
 # hustle-castle-auto-dice-memu
-Tool for using dice in the Hustle Castle adventure event
+Tool for using dice in the Hustle Castle adventure event. Selectable options include teleport to Hall of Destiny, Fire Arena or Craft workshop. Optional ticket use in Hall of Destiny. If there are any issues or you get any false positives flagging up malware or virus issues you can contact me at mrbeepbeepp@gmail.com
 
 1) Set display to the following size:
 
